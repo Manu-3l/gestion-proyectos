@@ -1,0 +1,24 @@
+
+@startwbs
+!theme crt-amber
+* Organización del proyecto
+** Dirección de producto
+*** Product Owner (Diego Parra)
+** Ingeniería
+*** Backend
+**** Líder Backend (Brian Gonzalez)
+**** Dev Backend (Diego Parra)
+**** Dev Backend (Merly)
+**** Dev Backend (Sofia)
+**** Dev Backend (Manuel Rosero)
+*** Frontend
+**** Líder Frontend (Manuel Rosero)
+**** Dev Frontend (Merly)
+**** Dev Frontend (Sofia)
+*** QA (Manuel y Brian)
+**** QA Automation 
+**** QA Manual
+** Seguridad y compliance
+*** AppSec
+@endwbs
+
